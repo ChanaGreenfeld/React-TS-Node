@@ -1,0 +1,20 @@
+{
+    "categories":[
+        {
+            "nameCategory":"Keyboards",
+            "codeCategory":1
+        },
+        {
+            "nameCategory":"percussions",
+            "codeCategory":2
+        },
+        {
+            "nameCategory":"string instrument",
+            "codeCategory":3
+        },
+        {
+            "nameCategory":"Wind Instruments",
+            "codeCategory":4
+        }
+    ]
+}
